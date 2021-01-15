@@ -1,0 +1,12 @@
+body {
+  background-image: url(https://cdn.statically.io/img/dweb.link/ipfs/z8bvj1SfzysgTfqwxasyQ9nkFoWChA6aX/z-peqajac.jpg);
+  background-size: 100vw 100vh;
+}
+.dbug {
+  border: 1px dashed orange;
+}
+.row {
+  background-color: white;
+  opacity: .96;
+  padding: 1em;
+}
